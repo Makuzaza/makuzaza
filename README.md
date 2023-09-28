@@ -2,7 +2,7 @@ Hi, everybody 👋
 
 🖥 I’m currently studying on software development
 
-👩‍🎓 I’m currently lerning how to work with GitHub
+👩‍🎓 I’m currently learning how to work with GitHub
 
 ❓ Ask me about something
 
