@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi, everybody 👋
+🖥 I’m currently studying on software development
+👩‍🎓 I’m currently lerning how to work with GitHub
+❓ Ask me about something
+
+
 
 <!--
 **Makuzaza/makuzaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
