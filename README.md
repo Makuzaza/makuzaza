@@ -8,7 +8,7 @@
 
 ❓ Ask me about something
 
-![](https://komarev.com/ghpvc/?username=makuzaza&color=green)
+![](https://komarev.com/ghpvc/?username=makuzaza&color=green&style=plastic)
 
 <!--
 **Makuzaza/makuzaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
