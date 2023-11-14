@@ -8,6 +8,8 @@
 
 ❓ Ask me about something
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ![](https://komarev.com/ghpvc/?username=makuzaza&style=plastic&color=green)
 
 <!--
