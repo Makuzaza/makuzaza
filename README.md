@@ -8,7 +8,7 @@
 
 ❓ Ask me about something
 
-[Linkedin](www.linkedin.com/in/maria-k-88543a11a)
+[Linkedin](https://www.linkedin.com/in/maria-k-88543a11a/)
 
 Programming Languages:
 
