@@ -9,7 +9,7 @@
 ❓ Ask me about something
 
 Programming Languages:
-![image]({[BadgeURLHere](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)})
+![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E})
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,visualstudio,figma,firebase,github)
 
