@@ -2,11 +2,13 @@
 
 🖥 I’m studying on software development
 
-👩‍🎓 I’m currently learning React JS and Node JS
+👩‍🎓 I’m currently learning React.js and Node.js
 
 💚 Share your thoughts about my code
 
 ❓ Ask me about something
+
+[Linkedin](www.linkedin.com/in/maria-k-88543a11a)
 
 Programming Languages:
 
