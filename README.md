@@ -2,7 +2,7 @@
 
 🖥 I’m studying on software development
 
-👩‍🎓 I’m currently learning how to work with React JS and Node JS
+👩‍🎓 I’m currently learning React JS and Node JS
 
 💚 Share your thoughts about my code
 
