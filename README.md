@@ -24,9 +24,9 @@ Programming Languages:
 ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,visualstudio,figma,firebase,github)
+<!--![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,visualstudio,figma,firebase,github)
 
-![](https://komarev.com/ghpvc/?username=makuzaza&style=plastic&color=green)
+![](https://komarev.com/ghpvc/?username=makuzaza&style=plastic&color=green)>
 
 <!--
 **Makuzaza/makuzaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
