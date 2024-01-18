@@ -1,8 +1,8 @@
 ### Hi, everybody 👋
 
-🖥 I’m studying on software development
+🖥 I’m studying on software development at Business College Helsinki
 
-👩‍🎓 I’m currently learning React.js and Node.js
+👩‍🎓 I’m currently learning React.js, Node.js, Typescript
 
 💚 Share your thoughts about my code
 
