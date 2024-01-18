@@ -2,7 +2,7 @@
 
 🖥 I’m studying software development at the Business College Helsinki
 
-👩‍🎓 I’m currently learning React.js, Node.js, AWS, Init Testing and Typescript
+👩‍🎓 I’m currently learning React.js, Node.js, AWS, Unit Testing and Typescript
 
 💚 Share your thoughts about my code
 
