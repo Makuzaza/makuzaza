@@ -1,12 +1,12 @@
 ### Hi, everybody 👋
 
-🖥 I’m studying on software development at Business College Helsinki
+🖥 I’m studying software development at the Business College Helsinki
 
-👩‍🎓 I’m currently learning React.js, Node.js, Typescript
+👩‍🎓 I’m currently learning React.js, Node.js, AWS, Init Testing and Typescript
 
 💚 Share your thoughts about my code
 
-❓ Ask me about something
+❓ Connect and ask me something on Linkedin:
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/maria-k-88543a11a/)
 
