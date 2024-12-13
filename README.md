@@ -2,7 +2,7 @@
 
 🖥 I’m studying software development at the Business College Helsinki
 
-👩‍🎓 I’m currently learning React.js, Node.js, AWS, Unit Testing and Typescript
+👩‍🎓 I’m currently learning Javascript, React, Node.js, AWS, Unit Testing and Typescript
 
 💚 Share your thoughts about my code
 
@@ -25,7 +25,6 @@ Programming Languages and skills:
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 <!--![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,visualstudio,figma,firebase,github)
 
