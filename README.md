@@ -1,6 +1,6 @@
 ### Hi, everybody 👋
 
-🖥 I’m studying software development at the Business College Helsinki
+🖥 I studyed software development at the Business College Helsinki
 
 👩‍🎓 I’m currently learning Javascript, React, Node.js, AWS, Unit Testing and Typescript
 
