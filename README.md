@@ -1,6 +1,7 @@
 ### Hi, everybody 👋
 
-🖥 I studyed software development at the Business College Helsinki
+🖥 I studied software development at the Business College Helsinki.
+Now I am studying Frontend Development at RS School.
 
 👩‍🎓 I’m currently learning Javascript, React, Node.js, AWS, Unit Testing and Typescript
 
